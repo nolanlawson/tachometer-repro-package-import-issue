@@ -1,4 +1,4 @@
-repro-another-tach-issue
+tachometer-repro-package-import-issue
 ====
 
 Usage:
