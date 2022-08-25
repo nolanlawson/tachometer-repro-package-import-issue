@@ -24,7 +24,7 @@
             "dependencies": {
               "repro-tach-issue": {
                 "kind": "git",
-                "repo": "https://gist.github.com/730faf33a3a8cef07e302c1d6280bfcb.git",
+                "repo": "https://github.com/nolanlawson/tachometer-repro-package-import-issue.git",
                 "ref": "main",
                 "setupCommands": [
                   "npm ci"
