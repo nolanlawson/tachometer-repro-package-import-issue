@@ -7,3 +7,9 @@ Usage:
 npm i
 npm test
 ```
+
+Debug:
+
+```
+npm test -- --manual
+```
