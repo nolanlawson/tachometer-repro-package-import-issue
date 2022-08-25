@@ -1,0 +1,12 @@
+{
+  "name": "repro-another-tach-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "tach --config ./tachometer.json"
+  },
+  "dependencies": {
+    "tachometer": "0.5.10",
+    "@stdlib/utils-noop": "0.0.13"
+  }
+}
