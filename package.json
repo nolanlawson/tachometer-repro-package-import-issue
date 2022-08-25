@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "tach --config ./tachometer.json"
+    "test": "tach --config ./dir/tachometer.json"
   },
   "dependencies": {
-    "tachometer": "0.5.10",
-    "@stdlib/utils-noop": "0.0.13"
+    "tachometer": "0.7.0",
+    "normalize-url": "7.0.3"
   }
 }

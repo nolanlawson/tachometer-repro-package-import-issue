@@ -5,7 +5,14 @@
 </head>
 <body>
 <script type="module">
-  import test from 'repro-tach-issue'
+  import normalizeUrl from "normalize-url"
+
+  function test() {
+    const start = Date.now()
+    while (Date.now() - start < 100) {}
+    normalizeUrl('example.com')
+    return true
+  }
 
   performance.mark('start')
   test()

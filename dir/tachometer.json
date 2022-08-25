@@ -24,8 +24,8 @@
             "dependencies": {
               "repro-tach-issue": {
                 "kind": "git",
-                "repo": "https://gist.github.com/85bdba522731e3fd7d7f4e5d4cf2233f.git",
-                "ref": "master",
+                "repo": "https://gist.github.com/730faf33a3a8cef07e302c1d6280bfcb.git",
+                "ref": "main",
                 "setupCommands": [
                   "npm ci"
                 ]
